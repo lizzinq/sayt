@@ -1,0 +1,56 @@
+.fly-on-hover:hover span{
+        transition: transform 300ms;
+        transform: translateY(-10px);
+}
+.fly-on-hover span{
+    display: inline-block;
+}
+.header {
+    background-color: antiquewhite;
+    border: 2px solid slateblue;
+    padding: 5px;
+    background: url(../img/photo2.jpg);
+    height:14vh;
+    background-repeat: repeat;
+    background-size: cover;
+    background-position:center;
+}
+
+
+
+.main {
+    background: url(../img/photo2.jpg);
+    height:14vh;
+    background-repeat: repeat;
+    background-size: cover;
+    background-position:center;
+    text-align: center;
+    text-align: justify;
+    text-align-last: center;
+    background-color: rgb(58, 5, 5);
+    color: rgb(50, 14, 80);
+    border: 2px solid slateblue;
+    padding: 5px;
+    height: 500px;
+}
+
+.footer {
+    background: url(../img/photo3.jpg);
+    height:14vh;
+    background-repeat: repeat;
+    background-size: cover;
+    text-align: center;
+    text-align: justify;
+    text-align-last: center;
+    background-color: rgba(156, 127, 11, 0.363);
+    color: rgb(24, 7, 39);
+    padding: 5px;
+    border: 2px solid slateblue;
+}
+.box{
+    background: url(../img/2.png);
+    height:14vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+}
